@@ -5,8 +5,8 @@
 # Quiz
 
 * What are computers better than humans at? (Select all that apply)
-   ** Making jokes
-   ** Doing repetitive tasks 
+   * Making jokes
+   * Doing repetitive tasks 
    ** Taking the average of many numbers 
    ** Copying data from one place and putting it into a spreadsheet 
    ** Taking care of grandma 
